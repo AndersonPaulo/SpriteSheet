@@ -20,6 +20,7 @@
 import subprocess<br/>
 import sys<br/>
 import os<br/>
+import bpy<br/>
  
 python_exe = os.path.join(sys.prefix, 'bin', 'python.exe')<br/>
 target = os.path.join(sys.prefix, 'lib', 'site-packages')<br/>
