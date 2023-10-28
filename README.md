@@ -1,5 +1,6 @@
 <h1>SpriteSheet</h1>
 
+<img src="/addonBlender.png">
 <h2>Cria Folhas de Sprites com o UPBGE/blender 2.79</h2>
 
 <h3>Ajuda no processo de desenvolvimento de jogos 2d<h3>
